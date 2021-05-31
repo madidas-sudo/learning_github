@@ -9,5 +9,11 @@ def main():
     mf.divideByfour(testArr)
     print(testArr)
 
+    mf.plusThree(testArr)
+    print(testArr)
+
+    mf.flatten(testArr)
+    print(testArr)
+
 if __name__ == '__main__':
     main()

@@ -9,3 +9,7 @@ def divideByfour(arr):
 def plusThree(arr):
     for i, j in enumerate(arr):
         arr[i] = j + 3
+
+def flatten(arr):
+    for i, j in enumerate(arr):
+        arr[i] = int(j)
