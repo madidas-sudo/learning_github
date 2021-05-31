@@ -15,5 +15,7 @@ def main():
     mf.flatten(testArr)
     print(testArr)
 
+#There shall be no comments!!
+
 if __name__ == '__main__':
     main()
