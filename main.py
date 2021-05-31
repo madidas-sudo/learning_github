@@ -6,7 +6,6 @@ def main():
     testArr = [25, 12, 64, 12]
     plusOne(testArr)
     print(testArr)
-    #arbitrary comment
 
 if __name__ == '__main__':
     main()
