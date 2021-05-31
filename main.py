@@ -16,7 +16,7 @@ def main():
     print(testArr)
 
 #There shall be no comments!!
-#I need to figure out where i am
+#i think i figured it out
 
 if __name__ == '__main__':
     main()
