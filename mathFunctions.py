@@ -5,3 +5,7 @@ def plusOne(arr):
 def divideByfour(arr):
     for i, j in enumerate(arr):
         arr[i] = j / 4
+
+def plusThree(arr):
+    for i, j in enumerate(arr):
+        arr[i] = j + 3
