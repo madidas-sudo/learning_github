@@ -2,6 +2,10 @@ def plusOne(arr):
     for i, j in enumerate(arr):
         arr[i] = j + 1
 
+def devideByFour(arr):
+    for i, j in enumerate(arr):
+        arr[i] = j / 4
+
 def main():
     testArr = [25, 12, 64, 12]
     plusOne(testArr)
