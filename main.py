@@ -2,13 +2,17 @@ def plusOne(arr):
     for i, j in enumerate(arr):
         arr[i] = j + 1
 
-def devideByFour(arr):
+def divideByfour(arr):
     for i, j in enumerate(arr):
         arr[i] = j / 4
 
 def main():
     testArr = [25, 12, 64, 12]
+
     plusOne(testArr)
+    print(testArr)
+
+    divideByfour(testArr)
     print(testArr)
 
 if __name__ == '__main__':
