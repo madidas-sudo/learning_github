@@ -15,5 +15,7 @@ def main():
     mf.flatten(testArr)
     print(testArr)
 
+#first edit
+
 if __name__ == '__main__':
     main()
