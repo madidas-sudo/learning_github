@@ -15,5 +15,8 @@ def main():
     mf.flatten(testArr)
     print(testArr)
 
+    mf.plusTwo(testArr)
+    print(testArr)
+
 if __name__ == '__main__':
     main()
